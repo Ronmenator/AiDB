@@ -1,4 +1,4 @@
-# LiteDB - A .NET NoSQL Document Store in a single data file
+# AiDB - A .NET NoSQL Document Store in a single data file - Forked from LiteDB
 
 [![NuGet Version](https://img.shields.io/nuget/v/LiteDB)](https://www.nuget.org/packages/LiteDB/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/LiteDB)](https://www.nuget.org/packages/LiteDB/)
